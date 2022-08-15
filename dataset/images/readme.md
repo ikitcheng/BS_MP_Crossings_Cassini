@@ -1,0 +1,1 @@
+* Images produced by `create_capsplot_dataset.py` script with function `create_labeled_capsplot()`.
